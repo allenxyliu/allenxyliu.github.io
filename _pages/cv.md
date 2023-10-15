@@ -20,9 +20,9 @@ Past Positions
   
 Current Positions
 ======
-2020- : Assistant Professor, School of Economics, Fudan University
+* 2020- : Assistant Professor, School of Economics, Fudan University
 
 Referee Service
 ======
-* Journal of Economic Growth, Journal of Population Economics, World Development, China Economic Review, Review of Development Economics, International Journal of Economic Theory, Economic Modelling, Singapore Economic Review, Journal of Asian Economics, China & World Economy, Journal of Globalization and Development, 经济研究, 世界经济文汇, 财经论丛, 产业经济评论, 金融学季刊
+Journal of Economic Growth, Journal of Population Economics, World Development, China Economic Review, Review of Development Economics, International Journal of Economic Theory, Economic Modelling, Singapore Economic Review, Journal of Asian Economics, China & World Economy, Journal of Globalization and Development, 经济研究, 世界经济文汇, 财经论丛, 产业经济评论, 金融学季刊
 
