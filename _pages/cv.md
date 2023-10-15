@@ -11,49 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* LL. B., Law, East China University of Political Science and Law, 2011
+* Ph. D., Economics, Fudan University, 2018
 
-Work experience
+Past Positions
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018-2020: Post-doctoral Fellows, School of Economics, Fudan University
+  
+Current Positions
+======
+2020- : Assistant Professor, School of Economics, Fudan University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Referee Service
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Journal of Economic Growth, Journal of Population Economics, World Development, China Economic Review, Review of Development Economics, International Journal of Economic Theory, Economic Modelling, Singapore Economic Review, Journal of Asian Economics, China & World Economy, Journal of Globalization and Development, 经济研究, 世界经济文汇, 财经论丛, 产业经济评论, 金融学季刊
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
