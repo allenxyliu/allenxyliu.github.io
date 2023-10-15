@@ -1,6 +1,6 @@
 ---
 title: "Going Green in China: Firms’ Responses to Stricter Environmental Regulations"
-collection: Working Papers
+collection: workings
 permalink: /publication/GoingGreen
 excerpt: '(December 2019) – with Haichao Fan, Joshua S. Graff Zivin, Zonglai Kou and Huanhuan Wang - NBER Working Paper No. 26540 - R&R at Canadian Journal of Economics'
 date: 2019-12-01
