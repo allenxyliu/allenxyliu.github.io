@@ -1,5 +1,5 @@
 ---
-title: "Labor union and the wealth-income ratio"
+title: "Labor Union and the Wealth-income Ratio"
 collection: publications
 permalink: /publication/LaborUnion
 excerpt: 'Economics Letters, 2018, 167: 29-35. With Angus C. Chu and Zonglai Kou.'

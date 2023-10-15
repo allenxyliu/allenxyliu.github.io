@@ -1,5 +1,5 @@
 ---
-title: "From equality to polarization: Changes in urban China’s gender earnings gap from 1988 to 2016"
+title: "From Equality to Polarization: Changes in Urban China's Gender Earnings Gap from 1988 to 2016"
 collection: publications
 permalink: /publication/FromEquity
 excerpt: 'Journal of Economic Behavior & Organization, 2023,  205: 303-337. With Sharon Xuejing Zuo.'

@@ -1,5 +1,5 @@
 ---
-title: "Import competition and energy efficiency: Firms' responses to the WTO accession in China"
+title: "Import Competition and Energy Efficiency: Firms’ Responses to the WTO Accession in China"
 collection: publications
 permalink: /publication/ImportComp
 excerpt: 'Journal of Economic Behavior & Organization, 2023, 214: 670-690.  With Yu Liu and Ruili Zhao.'

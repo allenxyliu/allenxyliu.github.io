@@ -1,5 +1,5 @@
 ---
-title: "Environmental regulation mitigates energy rebound effect"
+title: "Environmental Regulation Mitigates Energy Rebound Effect"
 collection: publications
 permalink: /publication/EnvRegulation
 excerpt: 'Energy Economics, 2023, 125: 106851. With Kerui Du and Cheng Zhao.'
