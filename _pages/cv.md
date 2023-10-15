@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,18 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Current Positions
 ======
-* LL. B., Law, East China University of Political Science and Law, 2011
-* Ph. D., Economics, Fudan University, 2018
+* 2020- : Assistant Professor, School of Economics, Fudan University
 
 Past Positions
 ======
 * 2018-2020: Post-doctoral Fellows, School of Economics, Fudan University
-  
-Current Positions
+
+Education
 ======
-* 2020- : Assistant Professor, School of Economics, Fudan University
+* LL. B., Law, East China University of Political Science and Law, 2011
+* Ph. D., Economics, Fudan University, 2018
 
 Referee Service
 ======
