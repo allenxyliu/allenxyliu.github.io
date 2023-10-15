@@ -8,14 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Assistant Professor
-=====
+**Assistant Professor**
 
-School of Economics, Fudan University
-=====
-
-
-
+**School of Economics, Fudan University**
 
 Research Interests: Innovation, Energy and Environmental Economics, Economics of Gender
 
