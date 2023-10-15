@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-**Assistant Professor**
+Assistant Professor
+=====
 
 **School of Economics, Fudan University**
 
