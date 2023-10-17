@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Papers"
+title: "Research Papers"
 permalink: /publications/
 author_profile: true
 ---
@@ -33,7 +33,8 @@ Publications
 
 **Economics Letters**, 2018, 167: 29-35. With Angus C. Chu and Zonglai Kou.
 
-Working papers
+<br>
+Working Papers
 =====
 
 * [Going Green in China: Firms’ Responses to Stricter Environmental Regulations](https://www.nber.org/papers/w26540)
@@ -42,7 +43,8 @@ Working papers
 
 R&R at **Canadian Journal of Economics**
 
-Paper in Chinese
+<br>
+Papers in Chinese
 =====
 
 * 中国企业的专利行为：特征事实以及来自创新政策的影响

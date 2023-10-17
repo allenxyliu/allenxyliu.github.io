@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Undergraduate level
+Undergraduate Levels
 =====
 * Industrial Economics
 
@@ -15,6 +15,7 @@ Undergraduate level
 
 * Softwares for Economic Analysis
 
-Graduate level:
+<br>
+Graduate Levels:
 =====
 * Intermediate Microeconomics
