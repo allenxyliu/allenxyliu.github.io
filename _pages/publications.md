@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research Papers"
-permalink: /publications/
+permalink: /papers/
 author_profile: true
 ---
 
@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-Papers
+Publications
 =====
 * [Import Competition and Energy Efficiency: Firms’ Responses to the WTO Accession in China](https://www.sciencedirect.com/science/article/abs/pii/S0167268123002913)
 
