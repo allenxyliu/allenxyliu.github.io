@@ -17,6 +17,6 @@ Undergraduate Levels
 
 <br>
 
-Graduate Levels:
+Graduate Levels
 =====
 * Intermediate Microeconomics
