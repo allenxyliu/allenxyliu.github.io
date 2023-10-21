@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-Publications
+Papers
 =====
 * [Import Competition and Energy Efficiency: Firms’ Responses to the WTO Accession in China](https://www.sciencedirect.com/science/article/abs/pii/S0167268123002913)
 
