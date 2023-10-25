@@ -21,8 +21,8 @@ Past Positions
 
 Education
 ======
-* LL. B., Law, East China University of Political Science and Law, 2011
 * Ph. D., Economics, Fudan University, 2018
+* LL. B., Law, East China University of Political Science and Law, 2011
 
 <br>
 
