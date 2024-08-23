@@ -13,6 +13,10 @@ author_profile: true
 
 Publications
 =====
+* [The Cause and Consequence of Robot Adoption in China: Minimum Wages and Firms' Responses](https://www.sciencedirect.com/science/article/pii/S2667325824000931)
+
+**Fundamental Research**, 2024.  With Richard B. Freeman, Zhikuo Liu, Ran Song, and Ruixiang Xiong.
+
 * [Import Competition and Energy Efficiency: Firms’ Responses to the WTO Accession in China](https://www.sciencedirect.com/science/article/abs/pii/S0167268123002913)
 
 **Journal of Economic Behavior & Organization**, 2023, 214: 670-690.  With Yu Liu and Ruili Zhao.
@@ -27,7 +31,7 @@ Publications
 
 * [Minimum Wages, Import Status, and Firms’ Innovation: Theory and Evidence from China](https://onlinelibrary.wiley.com/doi/full/10.1111/ecin.12933)
 
-**Economic Inquiry**, 2021, 59(1): 441-458. With Angus C. Chu, Haichao Fan, Yuichi Furukawa and Zonglai Kou.
+**Economic Inquiry**, 2021, 59(1): 441-458. With Angus C. Chu, Haichao Fan, Yuichi Furukawa, and Zonglai Kou.
 
 * [Labor Union and the Wealth-income Ratio](https://www.sciencedirect.com/science/article/abs/pii/S0165176518300715?fr=RR-2&ref=pdf_download&rr=8166acde7eab5e5e)
 
@@ -37,10 +41,14 @@ Publications
 
 Working Papers
 =====
+* [The Consequences of Export Controls in Target Countries](https://www.hbs.edu/ris/Publication%20Files/25-004_ad1ef401-a40c-4e3b-b123-8a61c5e77007.pdf)
+
+(August 2024) – With Yu Liu and Jaya Wen - Harvard Business School Working Paper No. 25-004
+
 
 * [Going Green in China: Firms’ Responses to Stricter Environmental Regulations](https://www.nber.org/papers/w26540)
 
-(December 2019) – with Haichao Fan, Joshua S. Graff Zivin, Zonglai Kou and Huanhuan Wang - NBER Working Paper No. 26540
+(December 2019) – With Haichao Fan, Joshua S. Graff Zivin, Zonglai Kou, and Huanhuan Wang - NBER Working Paper No. 26540
 
 Forthcoming at **Canadian Journal of Economics**
 
