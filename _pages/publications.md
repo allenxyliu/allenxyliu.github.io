@@ -42,7 +42,7 @@ Working Papers
 
 (December 2019) – with Haichao Fan, Joshua S. Graff Zivin, Zonglai Kou and Huanhuan Wang - NBER Working Paper No. 26540
 
-R&R at **Canadian Journal of Economics**
+Forthcoming at **Canadian Journal of Economics**
 
 <br>
 
@@ -62,3 +62,5 @@ Papers in Chinese
 2020年，《世界经济年鉴》“国际投资学2019年最佳中文论文Top10”。
 
 2022年，上海市第十五届哲学社会科学优秀成果奖（论文类）二等奖。
+
+2024年，教育部第九届高等学校科学研究优秀成果奖（人文社会科学）青年成果奖。
