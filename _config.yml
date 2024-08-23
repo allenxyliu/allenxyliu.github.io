@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xueyue Liu"
 title_separator          : "-"
 name                     : &name "Dr. Xueyue Liu"
-description              : &description "Assistant Prof of Econ at Fudan"
+description              : &description "Associate Prof of Econ at Fudan"
 url                      : https://allenxyliu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hyizhak/hyizhak.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Dr. Xueyue Liu"
   avatar           : "xyliu.jpg"
-  bio              : "Assistant Professor at School of Economics, Fudan University"
+  bio              : "Associate Professor at School of Economics, Fudan University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : ""
-  googlescholar    : ""
+  googlescholar    : "https://scholar.google.com/citations?user=_ftGFHsAAAAJ&hl=zh-CN"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
