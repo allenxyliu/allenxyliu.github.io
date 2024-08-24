@@ -41,6 +41,11 @@ Publications
 
 Working Papers
 =====
+* [Environmental Cost of Trade Liberalization: Input Tariff Reduction and Firm Energy Rebound Effect in China]
+
+(August 2024) – With Kerui Du and Cheng Zhao - Working Paper
+
+
 * [The Consequences of Export Controls in Target Countries](https://www.hbs.edu/ris/Publication%20Files/25-004_ad1ef401-a40c-4e3b-b123-8a61c5e77007.pdf)
 
 (August 2024) – With Yu Liu and Jaya Wen - Harvard Business School Working Paper No. 25-004
