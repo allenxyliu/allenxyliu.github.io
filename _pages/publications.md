@@ -41,7 +41,7 @@ Publications
 
 Working Papers
 =====
-* [Environmental Cost of Trade Liberalization: Input Tariff Reduction and Firm Energy Rebound Effect in China]
+* Environmental Cost of Trade Liberalization: Input Tariff Reduction and Firm Energy Rebound Effect in China
 
 (August 2024) – With Kerui Du and Cheng Zhao - Working Paper
 
