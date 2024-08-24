@@ -29,6 +29,6 @@ Education
 
 Referee Service
 ======
-Journal of Economic Growth, Journal of Population Economics, Journal of International Money and Finance, World Development, Energy Economics, China Economic Review, Review of Development Economics, International Journal of Economic Theory, Economic Modelling, Singapore Economic Review, Journal of Asian Economics, China & World Economy, Applied Economics, Environment and Development Economics, Environmental Management, Economics of Innovation and New Technology, Journal of Globalization and Development, Journal of Infrastructure, Policy and Development, Journal of Autonomous Intelligence <br>
+Journal of Economic Growth, Journal of Population Economics, Journal of International Money and Finance, World Development, Energy Economics, China Economic Review, Review of Development Economics, International Journal of Economic Theory, Economic Modelling, Singapore Economic Review, Journal of Asian Economics, The World Economy, China & World Economy, Applied Economics, Environment and Development Economics, Environmental Management, Economics of Innovation and New Technology, Journal of Globalization and Development, Journal of Infrastructure, Policy and Development, Journal of Autonomous Intelligence <br>
 经济研究, 经济科学, 世界经济文汇, 财经论丛, 经济理论与经济管理, 浙江工商大学学报, 产业经济评论, 金融学季刊, 技术经济, 经济管理学刊
 
