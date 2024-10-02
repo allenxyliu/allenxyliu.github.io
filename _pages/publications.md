@@ -45,6 +45,7 @@ Working Papers
 
 (September 2024) – With Kerui Du, Zonglai Kou, and Yi Luo - Working Paper
 
+
 * Environmental Cost of Trade Liberalization: Input Tariff Reduction and Firm Energy Rebound Effect in China
 
 (August 2024) – With Kerui Du and Cheng Zhao - Working Paper
