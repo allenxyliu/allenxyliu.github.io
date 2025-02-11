@@ -13,6 +13,12 @@ author_profile: true
 
 Publications
 =====
+* [Going Green in China: Firms’ Responses to Stricter Environmental Regulations](https://onlinelibrary.wiley.com/doi/full/10.1111/caje.12756)
+
+**Canadian Journal of Economics**, 2025.  With Haichao Fan, Joshua Graff Zivin, Zonglai Kou, and Huanhuan Wang. 
+
+[NBER Working Paper No. 26540](https://www.nber.org/papers/w26540). Coverage: VoxDev, VoxChina.
+
 * [The Cause and Consequence of Robot Adoption in China: Minimum Wages and Firms' Responses](https://www.sciencedirect.com/science/article/pii/S2667325824000931)
 
 **Fundamental Research**, 2024.  With Richard B. Freeman, Zhikuo Liu, Ran Song, and Ruixiang Xiong.
@@ -41,6 +47,11 @@ Publications
 
 Working Papers
 =====
+* Outward FDI to Elude
+
+(February 2024) – With Kerui Du, Zonglai Kou, and Yi Luo - Working Paper
+
+
 * Green Credit and Green Product Innovation: The Role of Deterrent Effect
 
 (September 2024) – With Kerui Du, Zonglai Kou, and Yi Luo - Working Paper
@@ -49,13 +60,6 @@ Working Papers
 * [The Consequences of Export Controls in Target Countries](https://www.hbs.edu/ris/Publication%20Files/25-004_ad1ef401-a40c-4e3b-b123-8a61c5e77007.pdf)
 
 (August 2024) – With Yu Liu and Jaya Wen - Harvard Business School Working Paper No. 25-004
-
-
-* [Going Green in China: Firms’ Responses to Stricter Environmental Regulations](https://www.nber.org/papers/w26540)
-
-(December 2019) – With Haichao Fan, Joshua S. Graff Zivin, Zonglai Kou, and Huanhuan Wang - NBER Working Paper No. 26540
-
-Forthcoming at **Canadian Journal of Economics**
 
 <br>
 
