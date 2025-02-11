@@ -12,6 +12,7 @@ redirect_from:
 Current Positions
 ======
 * 2023- : Associate Professor, School of Economics, Fudan University
+* 2024- : Research Fellow, Research Institute of Innovation and Digital Economy (RIDE), Fudan University
 
 Past Positions
 ======
