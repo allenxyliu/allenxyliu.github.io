@@ -49,7 +49,7 @@ Working Papers
 =====
 * Outward FDI to Elude
 
-(February 2024) – With Kerui Du, Zonglai Kou, and Yi Luo - Working Paper
+(February 2025) – With Kerui Du, Zonglai Kou, and Yi Luo - Working Paper
 
 
 * Green Credit and Green Product Innovation: The Role of Deterrent Effect
