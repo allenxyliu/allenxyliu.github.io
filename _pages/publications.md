@@ -15,7 +15,7 @@ Publications
 =====
 * [Going Green in China: Firms’ Responses to Stricter Environmental Regulations](https://onlinelibrary.wiley.com/doi/full/10.1111/caje.12756)
 
-**Canadian Journal of Economics**, 2025.  With Haichao Fan, Joshua Graff Zivin, Zonglai Kou, and Huanhuan Wang. 
+**Canadian Journal of Economics**, 2025, 58(1): 385-410. With Haichao Fan, Joshua Graff Zivin, Zonglai Kou, and Huanhuan Wang. 
 
 [NBER Working Paper No. 26540](https://www.nber.org/papers/w26540). Coverage: VoxDev, VoxChina.
 
