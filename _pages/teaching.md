@@ -13,10 +13,16 @@ Undergraduate Levels
 
 * Development Economics
 
-* Softwares for Economic Analysis
+* Software for Economic Analysis
 
 <br>
 
 Graduate Levels
 =====
 * Intermediate Microeconomics
+
+<br>
+
+PhD Levels
+=====
+* Research Methods and Thesis Writing
