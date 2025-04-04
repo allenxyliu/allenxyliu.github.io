@@ -47,6 +47,11 @@ Publications
 
 Working Papers
 =====
+* Population Aging and Robot Adoption: Evidence from China
+
+(April 2025) – With Kerui Du, Zonglai Kou, and Cheng Zhao - Working Paper
+
+
 * Outward FDI to Elude
 
 (February 2025) – With Kerui Du, Zonglai Kou, and Yi Luo - Working Paper
