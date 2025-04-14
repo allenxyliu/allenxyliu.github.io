@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Undergraduate Levels
+Undergraduate Level
 =====
 * Industrial Economics
 
@@ -17,12 +17,12 @@ Undergraduate Levels
 
 <br>
 
-Graduate Levels
+Masters Level
 =====
 * Intermediate Microeconomics
 
 <br>
 
-PhD Levels
+Ph.D. Level
 =====
 * Research Methods and Thesis Writing
