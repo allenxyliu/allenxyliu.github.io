@@ -47,6 +47,11 @@ Publications
 
 Working Papers
 =====
+* [The Environmental Costs of Fiscal Distress: Evidence from China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5096325)
+
+(April 2025) – With Chaoliang, Yu Liu, and Cheng Zhao - Working Paper
+
+
 * Population Aging and Robot Adoption: Evidence from China
 
 (April 2025) – With Kerui Du, Zonglai Kou, and Cheng Zhao - Working Paper
