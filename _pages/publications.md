@@ -62,6 +62,11 @@ Working Papers
 (February 2025) – With Kerui Du, Zonglai Kou, and Yi Luo - Working Paper
 
 
+* [Intellectual Property Judicial Reform, Litigation Bias, and Innovation: An "AI-Court" Approach and Evidence from China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5076529)
+
+(December 2024) – With Hanming Fang, Zonglai Kou, and Wentian Zhao - Working Paper
+
+
 * Green Credit and Green Product Innovation: The Role of Deterrent Effect
 
 (September 2024) – With Kerui Du, Zonglai Kou, and Yi Luo - Working Paper
