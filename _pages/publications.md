@@ -57,9 +57,9 @@ Working Papers
 (April 2025) – With Kerui Du, Zonglai Kou, and Cheng Zhao - Working Paper
 
 
-* Outward FDI to Elude
+<!--* Outward FDI to Elude
 
-(February 2025) – With Kerui Du, Zonglai Kou, and Yi Luo - Working Paper
+(February 2025) – With Kerui Du, Zonglai Kou, and Yi Luo - Working Paper-->
 
 
 * [Intellectual Property Judicial Reform, Litigation Bias, and Innovation: An "AI-Court" Approach and Evidence from China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5076529)
@@ -67,9 +67,9 @@ Working Papers
 (December 2024) – With Hanming Fang, Zonglai Kou, and Wentian Zhao - Working Paper
 
 
-* Green Credit and Green Product Innovation: The Role of Deterrent Effect
+<!--* * Green Credit and Green Product Innovation: The Role of Deterrent Effect
 
-(September 2024) – With Kerui Du, Zonglai Kou, and Yi Luo - Working Paper
+(September 2024) – With Kerui Du, Zonglai Kou, and Yi Luo - Working Paper-->
 
 
 * [The Consequences of Export Controls in Target Countries](https://www.hbs.edu/ris/Publication%20Files/25-004_ad1ef401-a40c-4e3b-b123-8a61c5e77007.pdf)
