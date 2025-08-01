@@ -13,7 +13,7 @@ author_profile: true
 
 Publications
 =====
-* [The unintended consequence of trade liberalization: Input tariff reduction and firm energy rebound effect in China](https://www.sciencedirect.com/science/article/pii/S0167268125002355)
+* [The Unintended Consequence of Trade Liberalization: Input Tariff Reduction and Firm Energy Rebound Effect in China](https://www.sciencedirect.com/science/article/pii/S0167268125002355)
 
 **Journal of Economic Behavior & Organization**, 2025, 237: 107116. With Kerui Du and Cheng Zhao.  
 
@@ -51,34 +51,30 @@ Publications
 
 Working Papers
 =====
+* Population Aging and Robot Adoption: Evidence from China
+
+(April 2025) – With Kerui Du, Zonglai Kou, and Cheng Zhao - Working Paper, Revise & Resubmit at **Journal of Population Economics**
+
 * [The Environmental Costs of Fiscal Distress: Evidence from China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5096325)
 
 (April 2025) – With Chaoliang Liu, Yu Liu, and Cheng Zhao - Working Paper
-
-
-* Population Aging and Robot Adoption: Evidence from China
-
-(April 2025) – With Kerui Du, Zonglai Kou, and Cheng Zhao - Working Paper
-
-
-<!--* Outward FDI to Elude
-
-(February 2025) – With Kerui Du, Zonglai Kou, and Yi Luo - Working Paper-->
-
 
 * [Intellectual Property Judicial Reform, Litigation Bias, and Innovation: An "AI-Court" Approach and Evidence from China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5076529)
 
 (December 2024) – With Hanming Fang, Zonglai Kou, and Wentian Zhao - Working Paper
 
+* [The Consequences of Export Controls in Target Countries](https://www.hbs.edu/ris/Publication%20Files/25-004_ad1ef401-a40c-4e3b-b123-8a61c5e77007.pdf)
 
-<!--* * Green Credit and Green Product Innovation: The Role of Deterrent Effect
+(August 2024) – With Yu Liu, Alexey Makarin, and Jaya Wen - Harvard Business School Working Paper No. 25-004
+
+<!--* Outward FDI to Elude
+
+(February 2025) – With Kerui Du, Zonglai Kou, and Yi Luo - Working Paper-->
+
+<!--* Green Credit and Green Product Innovation: The Role of Deterrent Effect
 
 (September 2024) – With Kerui Du, Zonglai Kou, and Yi Luo - Working Paper-->
 
-
-* [The Consequences of Export Controls in Target Countries](https://www.hbs.edu/ris/Publication%20Files/25-004_ad1ef401-a40c-4e3b-b123-8a61c5e77007.pdf)
-
-(August 2024) – With Yu Liu and Jaya Wen - Harvard Business School Working Paper No. 25-004
 
 <br>
 
