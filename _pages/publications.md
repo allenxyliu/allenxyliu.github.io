@@ -13,6 +13,10 @@ author_profile: true
 
 Publications
 =====
+* [The unintended consequence of trade liberalization: Input tariff reduction and firm energy rebound effect in China](https://www.sciencedirect.com/science/article/pii/S0167268125002355)
+
+**Journal of Economic Behavior & Organization**, 2025, 237: 107116. With Kerui Du and Cheng Zhao.  
+
 * [Going Green in China: Firms’ Responses to Stricter Environmental Regulations](https://onlinelibrary.wiley.com/doi/full/10.1111/caje.12756)
 
 **Canadian Journal of Economics**, 2025, 58(1): 385-410. With Haichao Fan, Joshua Graff Zivin, Zonglai Kou, and Huanhuan Wang. 
@@ -21,19 +25,19 @@ Publications
 
 * [The Cause and Consequence of Robot Adoption in China: Minimum Wages and Firms' Responses](https://www.sciencedirect.com/science/article/pii/S2667325824000931)
 
-**Fundamental Research**, 2024.  With Richard B. Freeman, Zhikuo Liu, Ran Song, and Ruixiang Xiong.
+**Fundamental Research**, 2025, 5(4): 1759-1770.  With Richard B. Freeman, Zhikuo Liu, Ran Song, and Ruixiang Xiong. 
 
 * [Import Competition and Energy Efficiency: Firms’ Responses to the WTO Accession in China](https://www.sciencedirect.com/science/article/abs/pii/S0167268123002913)
 
 **Journal of Economic Behavior & Organization**, 2023, 214: 670-690.  With Yu Liu and Ruili Zhao.
 
-* [Environmental Regulation Mitigates Energy Rebound Effect](https://www.sciencedirect.com/science/article/pii/S0140988323003493)
-
-**Energy Economics**, 2023, 125: 106851. With Kerui Du and Cheng Zhao.
-
 * [From Equality to Polarization: Changes in Urban China's Gender Earnings Gap from 1988 to 2016](https://www.sciencedirect.com/science/article/pii/S0167268122004139)
 
 **Journal of Economic Behavior & Organization**, 2023,  205: 303-337. With Sharon Xuejing Zuo.
+
+* [Environmental Regulation Mitigates Energy Rebound Effect](https://www.sciencedirect.com/science/article/pii/S0140988323003493)
+
+**Energy Economics**, 2023, 125: 106851. With Kerui Du and Cheng Zhao.
 
 * [Minimum Wages, Import Status, and Firms’ Innovation: Theory and Evidence from China](https://onlinelibrary.wiley.com/doi/full/10.1111/ecin.12933)
 
