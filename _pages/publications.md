@@ -53,15 +53,15 @@ Working Papers
 =====
 * Population Aging and Robot Adoption: Evidence from China
 
-(April 2025) – With Kerui Du, Zonglai Kou, and Cheng Zhao - Working Paper, Revise & Resubmit at **Journal of Population Economics**
+(April 2025) – With Kerui Du, Zonglai Kou, and Cheng Zhao - Revise & Resubmit at **Journal of Population Economics**
 
 * [The Environmental Costs of Fiscal Distress: Evidence from China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5096325)
 
-(April 2025) – With Chaoliang Liu, Yu Liu, and Cheng Zhao - Working Paper
+(April 2025) – With Chaoliang Liu, Yu Liu, and Cheng Zhao 
 
 * [Intellectual Property Judicial Reform, Litigation Bias, and Innovation: An "AI-Court" Approach and Evidence from China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5076529)
 
-(December 2024) – With Hanming Fang, Zonglai Kou, and Wentian Zhao - Working Paper
+(December 2024) – With Hanming Fang, Zonglai Kou, and Wentian Zhao 
 
 * [The Consequences of Export Controls in Target Countries](https://www.hbs.edu/ris/Publication%20Files/25-004_ad1ef401-a40c-4e3b-b123-8a61c5e77007.pdf)
 
