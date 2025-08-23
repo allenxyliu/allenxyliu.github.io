@@ -31,5 +31,5 @@ Education
 Referee Service
 ======
 Journal of Economic Growth, Journal of Population Economics, Journal of International Money and Finance, World Development, Energy Economics, China Economic Review, Economic Modelling, The World Economy, PLoS ONE <br>
-经济研究, 经济学(季刊), 中国工业经济, 数量经济技术经济研究, 经济科学
+经济研究, 经济学(季刊), 中国工业经济, 数量经济技术经济研究, 经济学动态, 经济科学
 
