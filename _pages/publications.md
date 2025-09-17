@@ -63,7 +63,7 @@ Working Papers
 
 (December 2024) – With Hanming Fang, Zonglai Kou, and Wentian Zhao 
 
-* [The Consequences of Export Controls in Target Countries](https://www.hbs.edu/ris/Publication%20Files/25-004_ad1ef401-a40c-4e3b-b123-8a61c5e77007.pdf)
+* [Export Controls and Innovation in Sanctioned Countries](https://www.hbs.edu/ris/Publication%20Files/25-004_ad1ef401-a40c-4e3b-b123-8a61c5e77007.pdf)
 
 (August 2024) – With Yu Liu, Alexey Makarin, and Jaya Wen - Harvard Business School Working Paper No. 25-004
 
