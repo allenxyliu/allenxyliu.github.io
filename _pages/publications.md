@@ -59,7 +59,9 @@ Coverage: [HBS Working Paper](https://www.hbs.edu/faculty/Pages/item.aspx?num=66
 
 * Population Aging and Robot Adoption: Evidence from China
 
-(April 2025) – With Kerui Du, Zonglai Kou, and Cheng Zhao - Revise & Resubmit at **Journal of Population Economics**
+(April 2025) – With Kerui Du, Zonglai Kou, and Cheng Zhao
+
+Revise & Resubmit at **Journal of Population Economics**
 
 * [The Environmental Costs of Fiscal Distress: Evidence from China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5096325)
 
