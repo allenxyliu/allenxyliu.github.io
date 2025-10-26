@@ -21,7 +21,7 @@ Publications
 
 **Canadian Journal of Economics**, 2025, 58(1): 385-410. With Haichao Fan, Joshua Graff Zivin, Zonglai Kou, and Huanhuan Wang. 
 
-[NBER Working Paper No. 26540](https://www.nber.org/papers/w26540). Coverage: VoxDev, VoxChina.
+Coverage: [NBER Working Paper](https://www.nber.org/papers/w26540), [VoxDev](https://voxdev.org/topic/energy-environment/going-green-china-firms-responses-stricter-environmental-regulations), [VoxChina](https://voxchina.org/show-3-176.html).
 
 * [The Cause and Consequence of Robot Adoption in China: Minimum Wages and Firms' Responses](https://www.sciencedirect.com/science/article/pii/S2667325824000931)
 
