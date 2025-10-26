@@ -51,6 +51,12 @@ Coverage: [NBER Working Paper](https://www.nber.org/papers/w26540), [VoxDev](htt
 
 Working Papers
 =====
+* [Export Controls and Innovation in Sanctioned Countries](https://www.hbs.edu/ris/Publication%20Files/25-004_ad1ef401-a40c-4e3b-b123-8a61c5e77007.pdf)
+
+(September 2025) – With Yu Liu, Alexey Makarin, and Jaya Wen
+
+Coverage: [HBS Working Paper](https://www.hbs.edu/faculty/Pages/item.aspx?num=66221), [CEPR Discussion Paper](https://cepr.org/publications/dp20690), [VoxEU](https://cepr.org/voxeu/columns/why-export-controls-accelerate-innovation-evidence-2007-us-china-rule)
+
 * Population Aging and Robot Adoption: Evidence from China
 
 (April 2025) – With Kerui Du, Zonglai Kou, and Cheng Zhao - Revise & Resubmit at **Journal of Population Economics**
@@ -63,9 +69,6 @@ Working Papers
 
 (December 2024) – With Hanming Fang, Zonglai Kou, and Wentian Zhao 
 
-* [Export Controls and Innovation in Sanctioned Countries](https://www.hbs.edu/ris/Publication%20Files/25-004_ad1ef401-a40c-4e3b-b123-8a61c5e77007.pdf)
-
-(August 2024) – With Yu Liu, Alexey Makarin, and Jaya Wen - Harvard Business School Working Paper No. 25-004
 
 <!--* Outward FDI to Elude
 
