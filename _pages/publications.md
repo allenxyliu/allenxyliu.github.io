@@ -17,39 +17,38 @@ Publications
 with Kerui Du and Cheng Zhao. <br>
 **Journal of Economic Behavior & Organization**, 2025, 237: 107116.  
 
-* [The Unintended Consequence of Trade Liberalization: Input Tariff Reduction and Firm Energy Rebound Effect in China](https://www.sciencedirect.com/science/article/pii/S0167268125002355)
-
-**Journal of Economic Behavior & Organization**, 2025, 237: 107116. With Kerui Du and Cheng Zhao.  
-
-* [Going Green in China: Firms’ Responses to Stricter Environmental Regulations](https://onlinelibrary.wiley.com/doi/full/10.1111/caje.12756)
-
-**Canadian Journal of Economics**, 2025, 58(1): 385-410. With Haichao Fan, Joshua Graff Zivin, Zonglai Kou, and Huanhuan Wang. 
-
+[Going Green in China: Firms’ Responses to Stricter Environmental Regulations](https://onlinelibrary.wiley.com/doi/full/10.1111/caje.12756) <br>
+with Haichao Fan, Joshua Graff Zivin, Zonglai Kou, and Huanhuan Wang. <br>
+**Canadian Journal of Economics**, 2025, 58(1): 385-410. <br>
 Coverage: [NBER Working Paper](https://www.nber.org/papers/w26540), [VoxDev](https://voxdev.org/topic/energy-environment/going-green-china-firms-responses-stricter-environmental-regulations), [VoxChina](https://voxchina.org/show-3-176.html).
 
-* [The Cause and Consequence of Robot Adoption in China: Minimum Wages and Firms' Responses](https://www.sciencedirect.com/science/article/pii/S2667325824000931)
+[The Cause and Consequence of Robot Adoption in China: Minimum Wages and Firms' Responses](https://www.sciencedirect.com/science/article/pii/S2667325824000931) <br>
+with Richard B. Freeman, Zhikuo Liu, Ran Song, and Ruixiang Xiong. <br>
+**Fundamental Research**, 2025, 5(4): 1759-1770.   
 
-**Fundamental Research**, 2025, 5(4): 1759-1770.  With Richard B. Freeman, Zhikuo Liu, Ran Song, and Ruixiang Xiong. 
+[Import Competition and Energy Efficiency: Firms’ Responses to the WTO Accession in China](https://www.sciencedirect.com/science/article/abs/pii/S0167268123002913) <br>
+with Yu Liu and Ruili Zhao. <br>
+**Journal of Economic Behavior & Organization**, 2023, 214: 670-690.  
 
-* [Import Competition and Energy Efficiency: Firms’ Responses to the WTO Accession in China](https://www.sciencedirect.com/science/article/abs/pii/S0167268123002913)
+[From Equality to Polarization: Changes in Urban China's Gender Earnings Gap from 1988 to 2016](https://www.sciencedirect.com/science/article/pii/S0167268122004139) <br>
+with Sharon Xuejing Zuo. <br>
+**Journal of Economic Behavior & Organization**, 2023,  205: 303-337. 
 
-**Journal of Economic Behavior & Organization**, 2023, 214: 670-690.  With Yu Liu and Ruili Zhao.
+[Environmental Regulation Mitigates Energy Rebound Effect](https://www.sciencedirect.com/science/article/pii/S0140988323003493) <br>
+with Kerui Du and Cheng Zhao. <br>
+**Energy Economics**, 2023, 125: 106851. 
 
-* [From Equality to Polarization: Changes in Urban China's Gender Earnings Gap from 1988 to 2016](https://www.sciencedirect.com/science/article/pii/S0167268122004139)
+[Minimum Wages, Import Status, and Firms’ Innovation: Theory and Evidence from China](https://onlinelibrary.wiley.com/doi/full/10.1111/ecin.12933) <br>
+with Angus C. Chu, Haichao Fan, Yuichi Furukawa, and Zonglai Kou. <br>
+**Economic Inquiry**, 2021, 59(1): 441-458. 
 
-**Journal of Economic Behavior & Organization**, 2023,  205: 303-337. With Sharon Xuejing Zuo.
+[Labor Union and the Wealth-income Ratio](https://www.sciencedirect.com/science/article/abs/pii/S0165176518300715?fr=RR-2&ref=pdf_download&rr=8166acde7eab5e5e) <br>
+with Angus C. Chu and Zonglai Kou. <br>
+**Economics Letters**, 2018, 167: 29-35. 
 
-* [Environmental Regulation Mitigates Energy Rebound Effect](https://www.sciencedirect.com/science/article/pii/S0140988323003493)
+<!--* [Labor Union and the Wealth-income Ratio](https://www.sciencedirect.com/science/article/abs/pii/S0165176518300715?fr=RR-2&ref=pdf_download&rr=8166acde7eab5e5e) 
 
-**Energy Economics**, 2023, 125: 106851. With Kerui Du and Cheng Zhao.
-
-* [Minimum Wages, Import Status, and Firms’ Innovation: Theory and Evidence from China](https://onlinelibrary.wiley.com/doi/full/10.1111/ecin.12933)
-
-**Economic Inquiry**, 2021, 59(1): 441-458. With Angus C. Chu, Haichao Fan, Yuichi Furukawa, and Zonglai Kou.
-
-* [Labor Union and the Wealth-income Ratio](https://www.sciencedirect.com/science/article/abs/pii/S0165176518300715?fr=RR-2&ref=pdf_download&rr=8166acde7eab5e5e)
-
-**Economics Letters**, 2018, 167: 29-35. With Angus C. Chu and Zonglai Kou.
+**Economics Letters**, 2018, 167: 29-35. With Angus C. Chu and Zonglai Kou.-->
 
 <br>
 
