@@ -9,20 +9,19 @@ author_profile: true
 
 Undergraduate Level
 =====
-* Industrial Economics
-
-* Development Economics
-
-* Software for Economic Analysis
+Industrial Economics <br>
+Development Economics <br>
+Software for Economic Analysis
 
 <br>
 
 Masters Level
 =====
-* Intermediate Microeconomics
+Intermediate Microeconomics <br>
+Digital Industrial Economics <br>
 
 <br>
 
 Ph.D. Level
 =====
-* Research Methods and Thesis Writing
+Research Methods and Thesis Writing
