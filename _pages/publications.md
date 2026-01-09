@@ -13,10 +13,8 @@ author_profile: true
 
 Publications
 =====
-[The Unintended Consequence of Trade Liberalization: Input Tariff Reduction and Firm Energy Rebound Effect in China](https://www.sciencedirect.com/science/article/pii/S0167268125002355)
-
-with Kerui Du and Cheng Zhao. 
-
+[The Unintended Consequence of Trade Liberalization: Input Tariff Reduction and Firm Energy Rebound Effect in China](https://www.sciencedirect.com/science/article/pii/S0167268125002355) <br>
+with Kerui Du and Cheng Zhao. <br>
 **Journal of Economic Behavior & Organization**, 2025, 237: 107116.  
 
 * [The Unintended Consequence of Trade Liberalization: Input Tariff Reduction and Firm Energy Rebound Effect in China](https://www.sciencedirect.com/science/article/pii/S0167268125002355)
