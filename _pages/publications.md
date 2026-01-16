@@ -54,12 +54,15 @@ with Angus C. Chu and Zonglai Kou. <br>
 
 Working Papers
 =====
-[Export Controls and Innovation in Sanctioned Countries](https://www.hbs.edu/ris/Publication%20Files/25-004_ad1ef401-a40c-4e3b-b123-8a61c5e77007.pdf) <br>
+[Export Controls and Innovation in Sanctioned Countries](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5476786) <br>
 with Yu Liu, Alexey Makarin, and Jaya Wen. 2025. <br>
 Coverage: [HBS Working Paper](https://www.hbs.edu/faculty/Pages/item.aspx?num=66221), [CEPR Discussion Paper](https://cepr.org/publications/dp20690), [VoxEU](https://cepr.org/voxeu/columns/why-export-controls-accelerate-innovation-evidence-2007-us-china-rule)
 
 [The Environmental Costs of Fiscal Distress: Evidence from China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5096325) <br>
 with Chaoliang Liu, Yu Liu, and Cheng Zhao. 2025. 
+
+Trade Policy Uncertainty and the Labor Share: Evidence from Chinese Manufacturers <br>
+with Yu Liu, Yong Tan, and Cheng Zhao. 2025. 
 
 Population Aging and Robot Adoption: Evidence from China <br>
 with Kerui Du, Zonglai Kou, and Cheng Zhao. 2025. <br> 
