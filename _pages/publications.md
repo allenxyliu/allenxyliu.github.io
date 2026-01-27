@@ -11,6 +11,35 @@ author_profile: true
 
 {% include base_path %}
 
+Working Papers
+=====
+[Export Controls and Innovation in Sanctioned Countries](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5476786) <br>
+with Yu Liu, Alexey Makarin, and Jaya Wen. 2025. <br>
+Coverage: [HBS Working Paper](https://www.hbs.edu/faculty/Pages/item.aspx?num=66221), [CEPR Discussion Paper](https://cepr.org/publications/dp20690), [VoxEU](https://cepr.org/voxeu/columns/why-export-controls-accelerate-innovation-evidence-2007-us-china-rule)
+
+[The Environmental Costs of Fiscal Distress: Evidence from China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5096325) <br>
+with Chaoliang Liu, Yu Liu, and Cheng Zhao. 2025. 
+
+Trade Policy Uncertainty and the Labor Share: Evidence from Chinese Manufacturers <br>
+with Yu Liu, Yong Tan, and Cheng Zhao. 2025. 
+
+Population Aging and Robot Adoption: Evidence from China <br>
+with Kerui Du, Zonglai Kou, and Cheng Zhao. 2025. <br> 
+Revise & Resubmit at **Journal of Population Economics**
+
+Outward FDI and Tightening Environmental Regulations: The Case of China <br>
+with Kerui Du, Zonglai Kou, and Yi Luo. 2025. <br>
+Revise & Resubmit at **Economic Inquiry**
+
+[Intellectual Property Judicial Reform, Litigation Bias, and Innovation: An "AI-Court" Approach and Evidence from China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5076529) <br>
+with Hanming Fang, Zonglai Kou, and Wentian Zhao. 2024. 
+
+<!--* Green Credit and Green Product Innovation: The Role of Deterrent Effect
+
+(September 2024) – With Kerui Du, Zonglai Kou, and Yi Luo - Working Paper-->
+
+<br>
+
 Publications
 =====
 [The Unintended Consequence of Trade Liberalization: Input Tariff Reduction and Firm Energy Rebound Effect in China](https://www.sciencedirect.com/science/article/pii/S0167268125002355) <br>
@@ -49,35 +78,6 @@ with Angus C. Chu and Zonglai Kou. <br>
 <!--* [Labor Union and the Wealth-income Ratio](https://www.sciencedirect.com/science/article/abs/pii/S0165176518300715?fr=RR-2&ref=pdf_download&rr=8166acde7eab5e5e) 
 
 **Economics Letters**, 2018, 167: 29-35. With Angus C. Chu and Zonglai Kou.-->
-
-<br>
-
-Working Papers
-=====
-[Export Controls and Innovation in Sanctioned Countries](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5476786) <br>
-with Yu Liu, Alexey Makarin, and Jaya Wen. 2025. <br>
-Coverage: [HBS Working Paper](https://www.hbs.edu/faculty/Pages/item.aspx?num=66221), [CEPR Discussion Paper](https://cepr.org/publications/dp20690), [VoxEU](https://cepr.org/voxeu/columns/why-export-controls-accelerate-innovation-evidence-2007-us-china-rule)
-
-[The Environmental Costs of Fiscal Distress: Evidence from China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5096325) <br>
-with Chaoliang Liu, Yu Liu, and Cheng Zhao. 2025. 
-
-Trade Policy Uncertainty and the Labor Share: Evidence from Chinese Manufacturers <br>
-with Yu Liu, Yong Tan, and Cheng Zhao. 2025. 
-
-Population Aging and Robot Adoption: Evidence from China <br>
-with Kerui Du, Zonglai Kou, and Cheng Zhao. 2025. <br> 
-Revise & Resubmit at **Journal of Population Economics**
-
-Outward FDI and Tightening Environmental Regulations: The Case of China <br>
-with Kerui Du, Zonglai Kou, and Yi Luo. 2025. <br>
-Revise & Resubmit at **Economic Inquiry**
-
-[Intellectual Property Judicial Reform, Litigation Bias, and Innovation: An "AI-Court" Approach and Evidence from China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5076529) <br>
-with Hanming Fang, Zonglai Kou, and Wentian Zhao. 2024. 
-
-<!--* Green Credit and Green Product Innovation: The Role of Deterrent Effect
-
-(September 2024) – With Kerui Du, Zonglai Kou, and Yi Luo - Working Paper-->
 
 <br>
 
