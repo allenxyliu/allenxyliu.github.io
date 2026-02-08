@@ -25,11 +25,11 @@ with Yu Liu, Yong Tan, and Cheng Zhao. 2025.
 
 Population Aging and Robot Adoption: Evidence from China <br>
 with Kerui Du, Zonglai Kou, and Cheng Zhao. 2025. <br> 
-Revise & Resubmit at **Journal of Population Economics**
+Forthcoming in **Journal of Population Economics**
 
 Outward FDI and Tightening Environmental Regulations: The Case of China <br>
 with Kerui Du, Zonglai Kou, and Yi Luo. 2025. <br>
-Revise & Resubmit at **Economic Inquiry**
+Revise and Resubmit at **Economic Inquiry**
 
 [Intellectual Property Judicial Reform, Litigation Bias, and Innovation: An "AI-Court" Approach and Evidence from China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5076529) <br>
 with Hanming Fang, Zonglai Kou, and Wentian Zhao. 2024. 
