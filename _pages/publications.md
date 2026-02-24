@@ -23,10 +23,6 @@ with Chaoliang Liu, Yu Liu, and Cheng Zhao. 2025.
 Trade Policy Uncertainty and the Labor Share: Evidence from Chinese Manufacturers <br>
 with Yu Liu, Yong Tan, and Cheng Zhao. 2025. 
 
-Population Aging and Robot Adoption: Evidence from China <br>
-with Kerui Du, Zonglai Kou, and Cheng Zhao. 2025. <br> 
-Forthcoming in **Journal of Population Economics**
-
 Outward FDI and Tightening Environmental Regulations: The Case of China <br>
 with Kerui Du, Zonglai Kou, and Yi Luo. 2025. <br>
 Revise and Resubmit at **Economic Inquiry**
@@ -42,6 +38,10 @@ with Hanming Fang, Zonglai Kou, and Wentian Zhao. 2024.
 
 Publications
 =====
+[Population Aging and Robot Adoption: Evidence from China](https://link.springer.com/article/10.1007/s00148-026-01163-1#Sec11) <br>
+with Kerui Du, Zonglai Kou, and Cheng Zhao. 2026. <br> 
+**Journal of Population Economics**, 2026, 39(1): 17.  
+
 [The Unintended Consequence of Trade Liberalization: Input Tariff Reduction and Firm Energy Rebound Effect in China](https://www.sciencedirect.com/science/article/pii/S0167268125002355) <br>
 with Kerui Du and Cheng Zhao. <br>
 **Journal of Economic Behavior & Organization**, 2025, 237: 107116.  
