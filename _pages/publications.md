@@ -15,6 +15,7 @@ Working Papers
 =====
 [Export Controls and Innovation in Sanctioned Countries](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5476786) <br>
 with Yu Liu, Alexey Makarin, and Jaya Wen. 2025. <br>
+Revise and Resubmit at **Journal of International Economics** <br>
 Coverage: [VoxEU](https://cepr.org/voxeu/columns/why-export-controls-accelerate-innovation-evidence-2007-us-china-rule), [HBS Working Knowledge](https://www.library.hbs.edu/working-knowledge/how-us-trade-sanctions-fueled-chinas-innovation-surge), [Forbes India](https://www.forbesindia.com/article/thought-leadership/harvard-business-school/how-us-trade-sanctions-fueled-chinas-innovation-surge/2992541/1)
 
 [The Environmental Costs of Fiscal Distress: Evidence from China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5096325) <br>
