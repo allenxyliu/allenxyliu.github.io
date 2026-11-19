@@ -39,7 +39,6 @@ with Hanming Fang, Zonglai Kou, and Wentian Zhao. 2024.
 
 Publications
 =====
-
 ## *Economics of Innovation*
 
 [Capital Goods Trade Liberalization and Firm Innovation: Evidence from China](https://www.sciencedirect.com/science/article/pii/S1043951X26001409) <br>
