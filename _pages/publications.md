@@ -39,6 +39,10 @@ with Hanming Fang, Zonglai Kou, and Wentian Zhao. 2024.
 
 Publications
 =====
+[Capital goods trade liberalization and firm innovation: Evidence from China](https://www.sciencedirect.com/science/article/pii/S1043951X26001409) <br>
+with Lina Zhang and Cheng Zhao. <br>
+**China Economic Review**, 2026, 102: 102790.
+
 [Population Aging and Robot Adoption: Evidence from China](https://link.springer.com/article/10.1007/s00148-026-01163-1) <br>
 with Kerui Du, Zonglai Kou, and Cheng Zhao. <br> 
 **Journal of Population Economics**, 2026, 39(1): 17.  
