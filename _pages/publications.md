@@ -40,7 +40,7 @@ with Hanming Fang, Zonglai Kou, and Wentian Zhao. 2024.
 Publications
 =====
 
-## Economics of Innovation
+## *Economics of Innovation*
 
 [Capital Goods Trade Liberalization and Firm Innovation: Evidence from China](https://www.sciencedirect.com/science/article/pii/S1043951X26001409) <br>
 with Lina Zhang and Cheng Zhao. <br>
@@ -58,7 +58,7 @@ with Richard B. Freeman, Zhikuo Liu, Ran Song, and Ruixiang Xiong. <br>
 with Angus C. Chu, Haichao Fan, Yuichi Furukawa, and Zonglai Kou. <br>
 **Economic Inquiry**, 2021, 59(1): 441-458. 
 
-## Energy and Environmental Economics
+## *Energy and Environmental Economics*
 
 [Going Green in China: Firms’ Responses to Stricter Environmental Regulations](https://onlinelibrary.wiley.com/doi/full/10.1111/caje.12756) <br>
 with Haichao Fan, Joshua Graff Zivin, Zonglai Kou, and Huanhuan Wang. <br>
@@ -77,7 +77,7 @@ with Yu Liu and Ruili Zhao. <br>
 with Kerui Du and Cheng Zhao. <br>
 **Energy Economics**, 2023, 125: 106851. 
 
-## Economics of Gender, and Others
+## *Economics of Gender, and Others*
 
 [From Equality to Polarization: Changes in Urban China's Gender Earnings Gap from 1988 to 2016](https://www.sciencedirect.com/science/article/pii/S0167268122004139) <br>
 with Sharon Xuejing Zuo. <br>
