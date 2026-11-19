@@ -39,7 +39,7 @@ with Hanming Fang, Zonglai Kou, and Wentian Zhao. 2024.
 
 Publications
 =====
-<h2 style="font-size: 24px; font-weight: 700; font-style: italic; color: #354B58; background-color: #F0F7FA; border-left: 4px solid #45A7C7; padding: 12px 16px; margin-top: 60px; margin-bottom: 28px;">
+<h2 style="font-size: 24px; font-weight: 700; font-style: italic; color: #354B58; background-color: #F0F7FA; border-left: 4px solid #45A7C7; padding: 12px 16px; margin-top: 15px; margin-bottom: 28px;">
 Economics of Innovation
 </h2>
 
