@@ -59,7 +59,7 @@ with Richard B. Freeman, Zhikuo Liu, Ran Song, and Ruixiang Xiong. <br>
 with Angus C. Chu, Haichao Fan, Yuichi Furukawa, and Zonglai Kou. <br>
 **Economic Inquiry**, 2021, 59(1): 441-458. 
 
-<h2 style="font-size: 24px; font-weight: 700; font-style: italic; color: #354B58; background-color: #F0F7FA; border-left: 4px solid #45A7C7; padding: 12px 16px; margin-top: 60px; margin-bottom: 28px;">
+<h2 style="font-size: 24px; font-weight: 700; font-style: italic; color: #354B58; background-color: #F0F7FA; border-left: 4px solid #45A7C7; padding: 12px 16px; margin-top: 25px; margin-bottom: 28px;">
 Energy and Environmental Economics
 </h2>
 
@@ -80,7 +80,7 @@ with Yu Liu and Ruili Zhao. <br>
 with Kerui Du and Cheng Zhao. <br>
 **Energy Economics**, 2023, 125: 106851. 
 
-<h2 style="font-size: 24px; font-weight: 700; font-style: italic; color: #354B58; background-color: #F0F7FA; border-left: 4px solid #45A7C7; padding: 12px 16px; margin-top: 60px; margin-bottom: 28px;">
+<h2 style="font-size: 24px; font-weight: 700; font-style: italic; color: #354B58; background-color: #F0F7FA; border-left: 4px solid #45A7C7; padding: 12px 16px; margin-top: 25px; margin-bottom: 28px;">
 Economics of Gender, and Others
 </h2>
 
