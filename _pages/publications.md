@@ -39,8 +39,7 @@ with Hanming Fang, Zonglai Kou, and Wentian Zhao. 2024.
 
 Publications
 =====
-
-<h2 style="font-size: 27px; font-weight: 700; font-style: italic; color: #354B58; background-color: #F0F7FA; border-left: 4px solid #45A7C7; padding: 12px 16px; margin-top: 60px; margin-bottom: 28px;">
+<h2 style="font-size: 24px; font-weight: 700; font-style: italic; color: #354B58; background-color: #F0F7FA; border-left: 4px solid #45A7C7; padding: 12px 16px; margin-top: 60px; margin-bottom: 28px;">
 Economics of Innovation
 </h2>
 
@@ -60,7 +59,9 @@ with Richard B. Freeman, Zhikuo Liu, Ran Song, and Ruixiang Xiong. <br>
 with Angus C. Chu, Haichao Fan, Yuichi Furukawa, and Zonglai Kou. <br>
 **Economic Inquiry**, 2021, 59(1): 441-458. 
 
-## *Energy and Environmental Economics*
+<h2 style="font-size: 24px; font-weight: 700; font-style: italic; color: #354B58; background-color: #F0F7FA; border-left: 4px solid #45A7C7; padding: 12px 16px; margin-top: 60px; margin-bottom: 28px;">
+Energy and Environmental Economics
+</h2>
 
 [Going Green in China: Firms’ Responses to Stricter Environmental Regulations](https://onlinelibrary.wiley.com/doi/full/10.1111/caje.12756) <br>
 with Haichao Fan, Joshua Graff Zivin, Zonglai Kou, and Huanhuan Wang. <br>
@@ -79,7 +80,9 @@ with Yu Liu and Ruili Zhao. <br>
 with Kerui Du and Cheng Zhao. <br>
 **Energy Economics**, 2023, 125: 106851. 
 
-## *Economics of Gender, and Others*
+<h2 style="font-size: 24px; font-weight: 700; font-style: italic; color: #354B58; background-color: #F0F7FA; border-left: 4px solid #45A7C7; padding: 12px 16px; margin-top: 60px; margin-bottom: 28px;">
+Economics of Gender, and Others
+</h2>
 
 [From Equality to Polarization: Changes in Urban China's Gender Earnings Gap from 1988 to 2016](https://www.sciencedirect.com/science/article/pii/S0167268122004139) <br>
 with Sharon Xuejing Zuo. <br>
