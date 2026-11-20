@@ -30,6 +30,7 @@ Education
 
 Referee Service
 ======
-Journal of Economic Behavior & Organization, Journal of Economic Growth, Journal of Environmental Economics and Management, Journal of International Money and Finance, Journal of Population Economics, World Development, China Economic Review, Ecological Economics, Economic Modelling, Energy Economics, PLoS ONE, The World Economy <br>
+Journal of Economic Behavior & Organization, Journal of Economic Growth, Journal of Environmental Economics and Management, Journal of International Money and Finance, Journal of Population Economics, World Development
+China Economic Review, Ecological Economics, Economic Modelling, Energy Economics, PLoS ONE, The World Economy <br>
 经济研究, 中国工业经济, 经济学(季刊), 数量经济技术经济研究, 经济学动态, 经济科学
 
